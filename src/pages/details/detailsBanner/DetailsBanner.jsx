@@ -7,7 +7,7 @@ import "./DetailsBanner.scss";
 
 import ContentWrapper from "../../../component/contentWrapper/ContentWrapper";
 import useFetch from "../../../hooks/useFetch";
-import Genres from "../../../component/genres/genres";
+import Genres from "../../../component/genres/Genres";
 import CircleRating from "../../../component/circleRating/CircleRating";
 import Img from "../../../component/lazyLoadImage/Img";
 import PosterFallback from "../../../assets/no-poster.png";
